@@ -1,0 +1,10 @@
+.user{
+    font-size: 18px;
+    padding-left: 10px;
+    color: #ffffff;
+    margin: 10px;
+}
+.btn .btn-danger{
+    padding-left: 100px;
+    margin-left: 100px;
+}
